@@ -1,5 +1,7 @@
 dataset 주소
-
+* 3일차
+  * 예제
+    * https://drive.google.com/file/d/1Je5g4vCWihSN6Qw8irjlv8UhUGr-uiSf/view?usp=sharing
 * 4일차
   * 참조  
     * https://drive.google.com/file/d/1X4C-hSmxy7C2pslF8rsJL-WrPNntgqLD/view?usp=sharing
