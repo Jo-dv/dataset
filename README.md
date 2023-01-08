@@ -17,6 +17,9 @@ dataset 주소
 * 6일차
   * 스마트 그리드
     * https://drive.google.com/file/d/1KhmFh8SxCkoiSI-KCic2xtpx1X2Q6r1T/view?usp=sharing
+  * 실습 예제
+    * 예제 1
+    * 예제 2
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
