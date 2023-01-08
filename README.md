@@ -19,7 +19,10 @@ dataset 주소
     * https://drive.google.com/file/d/1KhmFh8SxCkoiSI-KCic2xtpx1X2Q6r1T/view?usp=sharing
   * 실습 예제
     * 예제 1
+      * https://drive.google.com/file/d/1KteGsQNUTm9v_fXNINSywekIdiYuKGcz/view?usp=sharing
+      * https://drive.google.com/file/d/1Kt4LgULhNmty-M_PPh0xi0650zkzEThx/view?usp=sharing
     * 예제 2
+      * https://drive.google.com/file/d/1KuZ6xs3ovhmSqkNHR8m9Kl_KyonWLkI6/view?usp=share_link
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
