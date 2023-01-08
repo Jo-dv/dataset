@@ -14,6 +14,9 @@ dataset 주소
     * https://drive.google.com/file/d/1cgTV6grYybWRwpEFfG80RsUHQENh3rxD/view?usp=share_link
   * 코로나  
     * https://drive.google.com/file/d/1cqctUe_n4oXMIrxe6ChaZbLvE4Tv-B2H/view?usp=share_link
+* 6일차
+  * 스마트 그리드
+   * https://drive.google.com/file/d/1KhmFh8SxCkoiSI-KCic2xtpx1X2Q6r1T/view?usp=sharing
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
