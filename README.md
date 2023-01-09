@@ -23,6 +23,14 @@ dataset 주소
       * https://drive.google.com/file/d/1Kt4LgULhNmty-M_PPh0xi0650zkzEThx/view?usp=sharing
     * 예제 2
       * https://drive.google.com/file/d/1KuZ6xs3ovhmSqkNHR8m9Kl_KyonWLkI6/view?usp=share_link
+* 7일차
+  * 영양소 및 의류 데이터 분석
+    * 영양소
+      * https://drive.google.com/file/d/1Kh8V6PLTZeaaE9IwLZauyM_L6paWh8Ou/view?usp=share_link
+    * 의류 데이터
+      * https://drive.google.com/file/d/1LACyLvNMhC64BA-aeC08qVPPI1lP2jfn/view?usp=share_link
+      * https://drive.google.com/file/d/1LB0XLwFK3JYwxsrvViODjYRBpTEuaYMf/view?usp=share_link
+  * 예제
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
