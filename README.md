@@ -27,3 +27,5 @@ dataset 주소
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
     * https://drive.google.com/file/d/1KiM56o2YLbg6nIk6V0TPTNA9iT3YKVqg/view?usp=sharing
+* 기본 실습 세팅
+    * https://drive.google.com/file/d/1KwZ76TID2brWN1ncgJwTIuq1EfcWc4Qj/view?usp=sharing
