@@ -27,6 +27,8 @@ dataset 주소
   * 영양소 및 의류 데이터 분석
     * 영양소
       * https://drive.google.com/file/d/1Kh8V6PLTZeaaE9IwLZauyM_L6paWh8Ou/view?usp=share_link
+      * 수업 자료
+        * https://drive.google.com/file/d/1LKo8eLXwGNfS-KZoQSfcu7bbEhtdylWw/view?usp=share_link
     * 의류 데이터
       * https://drive.google.com/file/d/1LACyLvNMhC64BA-aeC08qVPPI1lP2jfn/view?usp=share_link
       * https://drive.google.com/file/d/1LB0XLwFK3JYwxsrvViODjYRBpTEuaYMf/view?usp=share_link
