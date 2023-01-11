@@ -32,6 +32,9 @@ dataset 주소
       * https://drive.google.com/file/d/1LB0XLwFK3JYwxsrvViODjYRBpTEuaYMf/view?usp=share_link
   * 예제 - 전자상거래(의류시장)
       * https://drive.google.com/file/d/1LLiugidoWp6GUt8DF4ngh5MNXd541jkb/view?usp=share_link
+* 8일차
+  * 유전자 분석
+    * https://drive.google.com/drive/folders/1Td-Oj1QO6BAo91nTwFoRhL0lAQwi16ZP
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
