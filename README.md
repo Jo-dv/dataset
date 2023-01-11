@@ -40,6 +40,9 @@ dataset 주소
       * https://drive.google.com/file/d/1LgcpRK9hGKElO1hnC21o3CtPI--5SgS1/view?usp=share_link
   * 예제 - 자동차 부품
      * https://drive.google.com/file/d/1LbKAJgxSnm4K9TTXXrkRt5E9RMd6h-dd/view?usp=share_link
+ * 9일차
+   * 예제
+     * https://drive.google.com/file/d/1M5ABdHuBDHJ3N2fd91WctFmN1S9K5c7v/view?usp=share_link
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
