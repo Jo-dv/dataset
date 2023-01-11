@@ -33,8 +33,13 @@ dataset 주소
   * 예제 - 전자상거래(의류시장)
       * https://drive.google.com/file/d/1LLiugidoWp6GUt8DF4ngh5MNXd541jkb/view?usp=share_link
 * 8일차
-  * 유전자 분석 및 예제
-    * https://drive.google.com/drive/folders/1Td-Oj1QO6BAo91nTwFoRhL0lAQwi16ZP
+  * 유전자 분석
+    * 나방 염기서열
+      * https://drive.google.com/file/d/1KI2lgNLDmT7fvhhK7Yii4KyPFENVg1I7/view?usp=share_link
+    * 포유류 염기서열
+      * https://drive.google.com/file/d/1LgcpRK9hGKElO1hnC21o3CtPI--5SgS1/view?usp=share_link
+  * 예제 - 자동차 부품
+     * https://drive.google.com/file/d/1LbKAJgxSnm4K9TTXXrkRt5E9RMd6h-dd/view?usp=share_link
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
