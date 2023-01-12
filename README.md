@@ -50,6 +50,8 @@ dataset 주소
        * https://drive.google.com/file/d/1M02sFFrIzskpfOHE59_iupGYQOuCAohw/view?usp=sharing
      * anomaly
        * https://drive.google.com/file/d/1M6NnklOAWr61kGGbqom06iJnTSt7qBfp/view?usp=share_link
+     * nasa
+       * https://drive.google.com/file/d/1M2zlb7Qi4wj9zLr8tqXluozd3eiIm3Ln/view?usp=share_link
        
 
 보조 프로그램
