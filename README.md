@@ -54,3 +54,19 @@ dataset 주소
     * https://drive.google.com/file/d/1KiM56o2YLbg6nIk6V0TPTNA9iT3YKVqg/view?usp=sharing
 * 기본 실습 세팅
     * https://drive.google.com/file/d/1KwZ76TID2brWN1ncgJwTIuq1EfcWc4Qj/view?usp=sharing
+    
+```
+def get_metrics(y_test, y_predicted):
+    display(pd.crosstab(pd.Series(y_test, name='Actual'), pd.Series(y_predicted, name='Predicted')).\
+            style.background_gradient(cmap='Reds'))
+    
+    accuracy = accuracy_score(y_test, y_predicted)
+    precision = precision_score(y_test, y_predicted, average='weighted')
+    recall = recall_score(y_test, y_predicted, average='weighted')
+    f1 = f1_score(y_test, y_predicted, average='weighted')
+    
+    print(f'\naccuracy \t= {round(accuracy, 2)} \
+    \nprecision \t= {round(precision, 2)} \
+    \nrecall \t\t= {round(recall, 2)} \
+    \nf1-score \t= {round(f1, 2)}')
+```
