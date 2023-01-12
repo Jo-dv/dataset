@@ -42,7 +42,8 @@ dataset 주소
      * https://drive.google.com/file/d/1LbKAJgxSnm4K9TTXXrkRt5E9RMd6h-dd/view?usp=share_link
  * 9일차
    * 예제
-     * https://drive.google.com/file/d/1MA9f_jjiWj4QsSMTTiJtrvAyK2RpjAka/view?usp=share_link
+     * ~~https://drive.google.com/file/d/1MA9f_jjiWj4QsSMTTiJtrvAyK2RpjAka/view?usp=share_link~~
+     * https://drive.google.com/file/d/1MHixBw5G6JKdm0zj6CevwbqmN5NWlNVj/view?usp=share_link
    * 수집데이터
      * x-o
        * https://drive.google.com/file/d/1M1akvads1sBxuajdhWoon78WQBAd0u2-/view?usp=sharing
