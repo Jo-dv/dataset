@@ -56,6 +56,8 @@ dataset 주소
     * https://drive.google.com/file/d/1KwZ76TID2brWN1ncgJwTIuq1EfcWc4Qj/view?usp=sharing
     
 ```
+from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+
 def get_metrics(y_test, y_predicted):
     display(pd.crosstab(pd.Series(y_test, name='Actual'), pd.Series(y_predicted, name='Predicted')).\
             style.background_gradient(cmap='Reds'))
