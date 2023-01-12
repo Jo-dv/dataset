@@ -43,6 +43,11 @@ dataset 주소
  * 9일차
    * 예제
      * https://drive.google.com/file/d/1M5ABdHuBDHJ3N2fd91WctFmN1S9K5c7v/view?usp=share_link
+   * 수집데이터
+     * x-o
+       * https://drive.google.com/file/d/1M1akvads1sBxuajdhWoon78WQBAd0u2-/view?usp=sharing
+       * https://drive.google.com/file/d/1M02sFFrIzskpfOHE59_iupGYQOuCAohw/view?usp=sharing
+       
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
