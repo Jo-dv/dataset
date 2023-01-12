@@ -47,6 +47,8 @@ dataset 주소
      * x-o
        * https://drive.google.com/file/d/1M1akvads1sBxuajdhWoon78WQBAd0u2-/view?usp=sharing
        * https://drive.google.com/file/d/1M02sFFrIzskpfOHE59_iupGYQOuCAohw/view?usp=sharing
+     * anomaly
+       * https://drive.google.com/file/d/1M6NnklOAWr61kGGbqom06iJnTSt7qBfp/view?usp=share_link
        
 
 보조 프로그램
