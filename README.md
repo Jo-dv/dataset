@@ -85,3 +85,29 @@ def get_metrics(y_test, y_predicted):
     \nrecall \t\t= {round(recall, 2)} \
     \nf1-score \t= {round(f1, 2)}')
 ```
+
+```
+puuid = summoner_info['puuid']
+count = "100"
+url = "https://asia.api.riotgames.com/lol/match/v5/matches/by-puuid/"+ puuid + "/ids?api_key=" + api_key +"&count=" + count
+match_ids = requests.get(url).json()
+
+matches = []
+for match_id in tqdm(match_ids):
+    match = {}
+    url = "https://asia.api.riotgames.com/lol/match/v5/matches/"+match_id+"?api_key="+api_key
+    result = requests.get(url).json()
+    if 'status' in result : continue
+    match['매치아이디'] = match_id
+    match['게임모드'] = result['info']['gameMode']
+    match['매치시간'] = result['info']['gameStartTimestamp']
+    my_participants = list(filter(lambda x: x['summonerName']==summoner_name, result['info']['participants']))[0]
+    match['챔피언'] = my_participants['championName']
+    match['킬'] = my_participants['kills']
+    match['데스'] = my_participants['deaths']
+    match['어시스트'] = my_participants['assists']
+    match['결과'] = '승리' if my_participants['win'] else '패배'
+    matches.append(match)
+matches = pd.DataFrame(matches)
+matches.head()
+```
