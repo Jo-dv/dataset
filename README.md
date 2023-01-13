@@ -59,7 +59,7 @@ dataset 주소
    * 설치 및 실행 intro
      * https://drive.google.com/file/d/1MapUG2WnAvoX8yg6YvXPFW_6TN4hdGLy/view?usp=share_link
    * api
-     * RGAPI-01e5dc01-45b4-4fb1-a3ec-2013a28d25db
+     * RGAPI-1769947f-cee1-4ba9-99a4-a644cd363fc7
      * 농구선수 갓관희
 
 보조 프로그램
