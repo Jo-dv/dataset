@@ -52,7 +52,10 @@ dataset 주소
        * https://drive.google.com/file/d/1M6NnklOAWr61kGGbqom06iJnTSt7qBfp/view?usp=share_link
      * nasa
        * https://drive.google.com/file/d/1M2zlb7Qi4wj9zLr8tqXluozd3eiIm3Ln/view?usp=share_link
-       
+ * 10일차
+   * 게임 데이터
+     * https://drive.google.com/file/d/1SV0lSf3mlVbb2HP-N5mHBORamvvpSv31/view?usp=share_link
+     * https://drive.google.com/file/d/1Sc3JN0udS5mlfsci5oYrtT2L-J5E-TNm/view?usp=sharing
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
