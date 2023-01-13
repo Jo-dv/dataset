@@ -56,6 +56,8 @@ dataset 주소
    * 게임 데이터
      * https://drive.google.com/file/d/1SV0lSf3mlVbb2HP-N5mHBORamvvpSv31/view?usp=share_link
      * https://drive.google.com/file/d/1Sc3JN0udS5mlfsci5oYrtT2L-J5E-TNm/view?usp=sharing
+   * 설치 및 실행 intro
+     * https://drive.google.com/file/d/1MapUG2WnAvoX8yg6YvXPFW_6TN4hdGLy/view?usp=share_link
 
 보조 프로그램
 * 이진 분류 혼동 행렬 시각화
